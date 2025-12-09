@@ -192,18 +192,6 @@ href="#download" class="nav-link">Реклама</a></li>
             <p>Делать мир лучше через технологии и инновации.</p>
         </div>
 
-        <!-- Реклама / Скачивание -->
-        <div id="download" class="section download-section">
-            <h1>📢 app-ads!</h1>
-            <p>Скачайте app-ads</p>
-            
-            <button id="downloadBtn" class="download-btn">
-                ⬇️ Скачать файл app-ads
-            </button>
-            
-            <p class="file-info">📄 Формат: TXT | Размер: ~25 КБ</p>
-        </div>
-
         <!-- Контакты -->
         <div id="contact" class="section">
             <h1>📧 Контакты</h1>
